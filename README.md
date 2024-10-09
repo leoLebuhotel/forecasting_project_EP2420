@@ -29,10 +29,10 @@ We applied **ARIMA** and **Exponential Smoothing** to the standardized datasets.
 
 The code for each task is organized in separate Jupyter notebooks:
 
-- [**task_I.ipynb**](repo/code/task_I.ipynb): Data pre-processing, feature selection, and linear regression model training.
- - [**task_II.ipynb**](repo/code/task_II.ipynb): Recurrent Neural Networks (RNNs) and LSTM Models.
-- [**task_III.ipynb**](repo/code/task_III.ipynb): Time series analysis, including ADF tests and ACF computation.
-- [**task_IV.ipynb**](repo/code/task_IV.ipynb): ARIMA and Exponential Smoothing models implementation.
+- [**task_1.ipynb**](repo/code/task_1.ipynb): Data pre-processing, feature selection, and linear regression model training.
+ - [**task_2.ipynb**](repo/code/task_2.ipynb): Recurrent Neural Networks (RNNs) and LSTM Models.
+- [**task_3.ipynb**](repo/code/task_3.ipynb): Time series analysis, including ADF tests and ACF computation.
+- [**task_4.ipynb**](repo/code/task_4.ipynb): ARIMA and Exponential Smoothing models implementation.
 
 ## Results
 
